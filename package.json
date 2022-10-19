@@ -1,0 +1,15 @@
+{
+  "name": "@itwonders-web/vue-modal",
+  "version": "1.0.0",
+  "description": "vue js default modal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs",
+    "modal"
+  ],
+  "author": "mrnabilnoh <mrnabilnoh@gmail.com>",
+  "license": "MIT"
+}
